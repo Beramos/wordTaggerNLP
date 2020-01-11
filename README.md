@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beramos/wordTaggerNLP/master?filepath=wordTaggerNLP.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beramos/wordTaggerNLP/master?filepath=wordTagger.ipynb)
 
 # wordTaggerNLP
 Simple notebook to analysis and annotate text
