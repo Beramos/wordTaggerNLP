@@ -16,3 +16,4 @@ analysis.tag_words(speech1)
 {'other': 453, 'noun': 173, 'verb': 136, 'adjective': 65, 'adverb': 46, 'foreign word': 0, 'modal': 21}
 ```
 
+![Histogram word occurences](./figs/speech.png)
