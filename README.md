@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/Beramos/wordTaggerNLP/master?filepath=crownAnalyser.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beramos/wordTaggerNLP/master?filepath=crownAnalyser.ipynb)
 
 # wordTaggerNLP
 Simple notebook to analysis and annotate text
